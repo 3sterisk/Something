@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "398493928301",
+    "firebase_url": "https://demovanilla-be21f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "demovanilla-be21f",
+    "storage_bucket": "demovanilla-be21f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398493928301:android:fe4d07858be3d525eae864",
+        "android_client_info": {
+          "package_name": "com.demovanilla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJIdQd_-6vjf5dzcy0hHuRYnNlMCMDFgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
